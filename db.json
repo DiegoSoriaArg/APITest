@@ -1,0 +1,427 @@
+{
+    "usuario": [
+        {
+            "nombre": "Diego Soria",
+            "email": "diegosoria@gmail.com",
+            "contraseña": "1234",
+            "id": "1"
+        },
+        {
+            "nombre": "Adriana Pereyra",
+            "email": "ap@gmail.com",
+            "contraseña": "12345",
+            "id": "2"
+        }
+    ],
+    "producto": [
+        {
+            "url": "../assets/img/home/skill.png",
+            "categoria": "starwars",
+            "nombre": "Producto XYZ",
+            "precio": "600",
+            "descuento": "5",
+            "descripcion": "Taza StarWars (Impresión 3D)",
+            "id": "8ada8638-d8d9-45e4-b64a-71f44081ce85"
+        },
+        {
+            "url": "../assets/img/home/consola.png",
+            "categoria": "consolas",
+            "nombre": "Control XYZ",
+            "precio": "700",
+            "descuento": "10",
+            "descripcion": "Control (joystick impresión 3D)",
+            "id": "90c7afa4-4998-4c0c-b43e-a6b2283a8239"
+        },
+        {
+            "url": "../assets/img/home/diverso.png",
+            "categoria": "diversos",
+            "nombre": "Camisa Atari",
+            "precio": "900",
+            "descuento": "10",
+            "descripcion": "Camisa Atari de algodón",
+            "id": "a46502e9-c502-43bc-888e-8324b5fd96ee"
+        },
+        {
+            "url": "../assets/img/home/skill (5).png",
+            "categoria": "starwars",
+            "nombre": "Producto XYZ",
+            "precio": "1500",
+            "descuento": "0",
+            "descripcion": "Cabeza Star Wars (Impresión 3D)",
+            "id": "b8becc3d-2a1c-427d-a6b9-856b919507ad"
+        },
+        {
+            "url": "../assets/img/home/consola1.png",
+            "categoria": "consolas",
+            "nombre": "Control y Consola XYZ",
+            "precio": "3500",
+            "descuento": "10",
+            "descripcion": "Consola y control",
+            "id": "cf256149-8cfe-4ece-aa56-2bd246967373"
+        },
+        {
+            "url": "../assets/img/home/diverso1.png",
+            "categoria": "diversos",
+            "nombre": "Camisa SNES",
+            "precio": "1000",
+            "descuento": "5",
+            "descripcion": "Camisa SNES de algodon",
+            "id": "abcfaa27-7720-4fb8-8eaf-8e42f8467830"
+        },
+        {
+            "url": "../assets/img/home/skill (1).png",
+            "categoria": "starwars",
+            "nombre": "Producto XYZ",
+            "precio": "760",
+            "descuento": "0",
+            "descripcion": "Producto impreso (3D)",
+            "id": "3cd94196-19fc-4ee1-a740-68ed10e25cf8"
+        },
+        {
+            "url": "../assets/img/home/consola2.png",
+            "categoria": "consolas",
+            "nombre": "Consola XYZ",
+            "precio": "1340",
+            "descuento": "0",
+            "descripcion": "Consola de videojuegos",
+            "id": "df0b13cb-d0c2-4c73-acc1-0f620f7862bc"
+        },
+        {
+            "url": "../assets/img/home/diverso3.png",
+            "categoria": "diversos",
+            "nombre": "Sonic 3D",
+            "precio": "900",
+            "descuento": "0",
+            "descripcion": "Producto impreso (3D) de Sonic",
+            "id": "d91625ae-f7a6-48b9-b86e-7029c07ce50b"
+        },
+        {
+            "url": "../assets/img/home/skill (2).png",
+            "categoria": "starwars",
+            "nombre": "Producto XYZ",
+            "precio": "1100",
+            "descuento": "25",
+            "descripcion": "Producto impreso (3D) de Star Wars",
+            "id": "3715383b-053d-4c57-ac87-189ca8f6d557"
+        },
+        {
+            "url": "../assets/img/home/consola3.png",
+            "categoria": "consolas",
+            "nombre": "Comandos XYZ",
+            "precio": "900",
+            "descuento": "0",
+            "descripcion": "Productos impresos en 3D",
+            "id": "5399dbaf-84e0-4ad9-8882-14500c4bad93"
+        },
+        {
+            "url": "../assets/img/home/diverso4.png",
+            "categoria": "diversos",
+            "nombre": "Producto XYZ",
+            "precio": "600",
+            "descuento": "0",
+            "descripcion": "Producto impreso (3D)",
+            "id": "bc9a2bdf-0426-4c1d-9131-e451efd67f74"
+        },
+        {
+            "url": "../assets/img/home/skill (3).png",
+            "categoria": "starwars",
+            "nombre": "Bebe Yoda Yedi",
+            "precio": "2480",
+            "descuento": "10",
+            "descripcion": "Bebe Yoda Yedi impreso en 3D - Star Wars",
+            "id": "1251cf3b-57a7-4720-b9de-75025ec51d0a"
+        },
+        {
+            "url": "../assets/img/home/consola4.png",
+            "categoria": "consolas",
+            "nombre": "Consola XYZ",
+            "precio": "700",
+            "descuento": "0",
+            "descripcion": "Producto impreso 3D",
+            "id": "0c3fbace-db3b-4576-9699-955d424a048a"
+        },
+        {
+            "url": "../assets/img/home/diverso2.png",
+            "categoria": "diversos",
+            "nombre": "Realidad Aumentada",
+            "precio": "5600",
+            "descuento": "10",
+            "descripcion": "Lentes de juego y realidad aumentada",
+            "id": "d0203f0a-789f-4b86-afcb-9c0fd7a0a48d"
+        },
+        {
+            "url": "../assets/img/home/skill (4).png",
+            "categoria": "starwars",
+            "nombre": "Darth Vader 3D",
+            "precio": "3500",
+            "descuento": "5",
+            "descripcion": "Producto impreso en 3D - Darth Vader de Star Wars",
+            "id": "3d7235a8-9743-456b-b445-831a1487dae3"
+        },
+        {
+            "url": "../assets/img/home/consola5.png",
+            "categoria": "consolas",
+            "nombre": "Game Boy Color",
+            "precio": "4600",
+            "descuento": "0",
+            "descripcion": "Game Boy de colección ",
+            "id": "512257db-dcaa-4d92-8c16-573588514a81"
+        },
+        {
+            "url": "../assets/img/home/diverso5.png",
+            "categoria": "diversos",
+            "nombre": "Pikachu Peluche",
+            "precio": "3200",
+            "descuento": "0",
+            "descripcion": "Peluche de Pikachu tamaño mediano",
+            "id": "8b29f1a5-7973-4adb-a323-b692149188de"
+        }
+    ],
+    "mensaje": [],
+    "pedido": [
+        {
+            "contenido": [
+                {
+                    "id": "b8becc3d-2a1c-427d-a6b9-856b919507ad",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/skill (5).png",
+                        "categoria": "starwars",
+                        "nombre": "Producto XYZ",
+                        "precio": "1500",
+                        "descuento": "0",
+                        "descripcion": "Cabeza Star Wars (Impresión 3D)",
+                        "cantidad": 3
+                    }
+                },
+                {
+                    "id": "3715383b-053d-4c57-ac87-189ca8f6d557",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/skill (2).png",
+                        "categoria": "starwars",
+                        "nombre": "Producto XYZ",
+                        "precio": "1100",
+                        "descuento": "25",
+                        "descripcion": "Producto impreso (3D) de Star Wars",
+                        "cantidad": 2
+                    }
+                }
+            ],
+            "comprador": {
+                "nombre": "cjsdcs",
+                "apellido": "dcsdc",
+                "direccion": "csdcsd",
+                "telefono": "dscsd",
+                "email": "diegosoria@gmail.com",
+                "numTarjeta": "23423453",
+                "pinTarjeta": "2345",
+                "comentario": "cdscsdc"
+            },
+            "costo": 6150,
+            "id": "9662eb2e-0839-4f39-ab6d-7d73ca642d24"
+        },
+        {
+            "contenido": [
+                {
+                    "id": "1251cf3b-57a7-4720-b9de-75025ec51d0a",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/skill (3).png",
+                        "categoria": "starwars",
+                        "nombre": "Bebe Yoda Yedi",
+                        "precio": "2480",
+                        "descuento": "10",
+                        "descripcion": "Bebe Yoda Yedi impreso en 3D - Star Wars",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "3715383b-053d-4c57-ac87-189ca8f6d557",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/skill (2).png",
+                        "categoria": "starwars",
+                        "nombre": "Producto XYZ",
+                        "precio": "1100",
+                        "descuento": "25",
+                        "descripcion": "Producto impreso (3D) de Star Wars",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "5399dbaf-84e0-4ad9-8882-14500c4bad93",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/consola3.png",
+                        "categoria": "consolas",
+                        "nombre": "Comandos XYZ",
+                        "precio": "900",
+                        "descuento": "0",
+                        "descripcion": "Productos impresos en 3D",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "df0b13cb-d0c2-4c73-acc1-0f620f7862bc",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/consola2.png",
+                        "categoria": "consolas",
+                        "nombre": "Consola XYZ",
+                        "precio": "1340",
+                        "descuento": "0",
+                        "descripcion": "Consola de videojuegos",
+                        "cantidad": 6
+                    }
+                }
+            ],
+            "comprador": {
+                "nombre": "Diego",
+                "apellido": "Soria",
+                "direccion": "alonso",
+                "telefono": "6546745",
+                "email": "diegosoria@gmail.com",
+                "numTarjeta": "3453456576",
+                "pinTarjeta": "2324",
+                "comentario": "dsdvsd"
+            },
+            "costo": 5297,
+            "id": "1887dfb7-fe10-4f2c-8566-2359c2c1bffb"
+        },
+        {
+            "contenido": [
+                {
+                    "id": "df0b13cb-d0c2-4c73-acc1-0f620f7862bc",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/consola2.png",
+                        "categoria": "consolas",
+                        "nombre": "Consola XYZ",
+                        "precio": "1340",
+                        "descuento": "0",
+                        "descripcion": "Consola de videojuegos",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "cf256149-8cfe-4ece-aa56-2bd246967373",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/consola1.png",
+                        "categoria": "consolas",
+                        "nombre": "Control y Consola XYZ",
+                        "precio": "3500",
+                        "descuento": "10",
+                        "descripcion": "Consola y control",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "b8becc3d-2a1c-427d-a6b9-856b919507ad",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/skill (5).png",
+                        "categoria": "starwars",
+                        "nombre": "Producto XYZ",
+                        "precio": "1500",
+                        "descuento": "0",
+                        "descripcion": "Cabeza Star Wars (Impresión 3D)",
+                        "cantidad": 1
+                    }
+                }
+            ],
+            "comprador": {
+                "nombre": "Diego",
+                "apellido": "Soria",
+                "direccion": "alonso",
+                "telefono": "6546745",
+                "email": "diegosoria@gmail.com",
+                "numTarjeta": "3453456576",
+                "pinTarjeta": "2324",
+                "comentario": "gfbfgbfg"
+            },
+            "costo": 5990,
+            "id": "ce65ecb8-73ee-4b7e-b818-a276cfd4a0fd"
+        },
+        {
+            "contenido": [
+                {
+                    "id": "3715383b-053d-4c57-ac87-189ca8f6d557",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/skill (2).png",
+                        "categoria": "starwars",
+                        "nombre": "Producto XYZ",
+                        "precio": "1100",
+                        "descuento": "25",
+                        "descripcion": "Producto impreso (3D) de Star Wars",
+                        "cantidad": 3
+                    }
+                },
+                {
+                    "id": "5399dbaf-84e0-4ad9-8882-14500c4bad93",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/consola3.png",
+                        "categoria": "consolas",
+                        "nombre": "Comandos XYZ",
+                        "precio": "900",
+                        "descuento": "0",
+                        "descripcion": "Productos impresos en 3D",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "8b29f1a5-7973-4adb-a323-b692149188de",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/diverso5.png",
+                        "categoria": "diversos",
+                        "nombre": "Pikachu Peluche",
+                        "precio": "3200",
+                        "descuento": "0",
+                        "descripcion": "Peluche de Pikachu tamaño mediano",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "d91625ae-f7a6-48b9-b86e-7029c07ce50b",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/diverso3.png",
+                        "categoria": "diversos",
+                        "nombre": "Sonic 3D",
+                        "precio": "900",
+                        "descuento": "0",
+                        "descripcion": "Producto impreso (3D) de Sonic",
+                        "cantidad": 3
+                    }
+                },
+                {
+                    "id": "a46502e9-c502-43bc-888e-8324b5fd96ee",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/diverso.png",
+                        "categoria": "diversos",
+                        "nombre": "Camisa Atari",
+                        "precio": "900",
+                        "descuento": "15",
+                        "descripcion": "Camisa Atari de algodón",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "df0b13cb-d0c2-4c73-acc1-0f620f7862bc",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/consola2.png",
+                        "categoria": "consolas",
+                        "nombre": "Consola XYZ",
+                        "precio": "1340",
+                        "descuento": "0",
+                        "descripcion": "Consola de videojuegos",
+                        "cantidad": 2
+                    }
+                }
+            ],
+            "comprador": {
+                "nombre": "Diego",
+                "apellido": "Soria",
+                "direccion": "alonso",
+                "telefono": "6546745",
+                "email": "diegosoria@gmail.com",
+                "numTarjeta": "3453456576",
+                "pinTarjeta": "2324",
+                "comentario": "bfgfgbfg"
+            },
+            "costo": 12765,
+            "id": "90cdfc81-b121-4f5e-a8f0-21909a1f8e61"
+        }
+    ]
+}
